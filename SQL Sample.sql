@@ -1,3 +1,4 @@
+--Each supplier city with the largest quantity product offered
 SELECT O.Supplier_City, Product_Name, Total_Offered_Quantity 
 FROM Tb_Offers_Cube O
 INNER JOIN 
