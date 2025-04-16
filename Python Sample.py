@@ -1,3 +1,5 @@
+'''Finding a farmers minimum cost of feed for pigs with 
+how amount of each feed while maintaining necessary nutrients a pig needs''' 
 # libraries
 from pyomo.environ import *
 # Problem data
